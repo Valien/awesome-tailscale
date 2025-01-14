@@ -7,7 +7,7 @@ Note: These repos are not official Tailscale repos but community ones that I've 
 
 Oh, and if you have no idea what Tailscale is. Then check us out --> www.tailscale.com :)
 
-No special order, except alpabetical right now...
+No special order, except alphabetical right now...
 
 - [InstallTailscale](https://github.com/espenbo/InstallTailscale) - Installing Tailscale on embedded devices 
 - [tailscale-wakonlan](https://github.com/andygrundman/tailscale-wakeonlan) - Using Docker to send a WOL packet to a device
